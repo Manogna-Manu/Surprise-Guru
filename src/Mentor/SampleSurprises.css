@@ -1,0 +1,8 @@
+.cardstyle:hover{
+    border-color: black;
+    transform:scale(1.05);
+ } 
+ .pStyle{
+     font-weight: 500px;
+     font-size: 25px;
+ }

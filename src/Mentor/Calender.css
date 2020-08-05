@@ -1,0 +1,16 @@
+.calendertop
+{
+    padding-top: 120px;
+    padding-bottom: 15px;
+    background-color: #fff;
+}
+.calenderbottom
+{
+    margin-top: -50px;
+    background-color: #fff;
+}
+.calenderform 
+{
+    padding-top: 100px;
+    background-color: #ffdd15;
+}
